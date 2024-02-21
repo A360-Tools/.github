@@ -1,7 +1,7 @@
 Welcome! 👋
 
 🙋‍♀️ **Introduction:**
-   Providing custom tools, packages, and utilities to enhance your Automation Anywhere development experience.
+   Custom tools, packages, and utilities to enhance your Automation Anywhere development experience.
 
 🌈 **Contribution Guidelines:**
    Feel free to contribute by submitting issues, suggesting enhancements, or creating pull requests. Your input is valuable in making A360 Tools even more robust.
